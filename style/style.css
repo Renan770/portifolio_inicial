@@ -139,5 +139,9 @@ padding: 0 0 20% 0%;
     .apresentacao__conteudo{
         width: auto;
     }
+    .apresentacao__imagem {
+width: 50%;
+padding: 0 0 10% 0%;
+}
     
 }
